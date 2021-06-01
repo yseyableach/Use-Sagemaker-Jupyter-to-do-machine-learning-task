@@ -3,7 +3,7 @@
 ## Introduction
 
 
-<p align="right">
+<p align="left">
 Many companies hope to supplement data analysis or classification prediction through data mining & machine learning , but the external factors that affect business decisions are changing day by day and the new algorithms are published , so it's a difficult task to maintain and train the machine learning model. 
 
 
